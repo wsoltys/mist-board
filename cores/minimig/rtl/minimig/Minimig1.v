@@ -145,6 +145,7 @@
 //
 // SB:
 // 2012-03-23 - fixed sprite enable signal (coppermaster demo)
+// 2014-04-12	- implemented sprite collision detection fix, developed by Yaqube. thanks a lot!
 
 module Minimig1
 (
